@@ -1,58 +1,43 @@
 # Buscador de Pokémon
 
-Este proyecto es un **buscador de Pokémon** desarrollado con **React** y **Create React App**. Utiliza la [API de Pokémon](https://pokeapi.co/) para obtener información sobre diferentes Pokémon y mostrarlos en la aplicación.
+Esta es una aplicación simple creada con React para buscar y mostrar información sobre Pokémon. Utiliza la API de Pokémon para obtener los detalles de los Pokémon.
 
-## Introducción
+## Cómo Empezar
 
-Con este buscador, puedes buscar cualquier Pokémon, ver sus detalles, y explorar sus habilidades y estadísticas. La aplicación es sencilla de usar y está diseñada para ofrecer una experiencia de usuario amigable.
-
-## Características
-
-- Búsqueda de Pokémon por nombre.
-- Visualización de detalles del Pokémon.
-- Interfaz responsiva y fácil de navegar.
-
-## Getting Started
-
-Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
-
-### Scripts Disponibles
+Este proyecto fue creado utilizando [Create React App](https://github.com/facebook/create-react-app).
 
 En el directorio del proyecto, puedes ejecutar:
 
-#### `npm start`
+### `npm start`
 
-Ejecuta la aplicación en modo desarrollo.\
-Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
+Esto inicia la aplicación en modo de desarrollo.\
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
-La página se recargará cuando hagas cambios.\
+La página se recargará cuando realices cambios.\
 También puedes ver cualquier error de lint en la consola.
 
-#### `npm test`
+## Ver la Aplicación en Línea
 
-Lanza el ejecutor de pruebas en modo interactivo.\
-Consulta la sección sobre [ejecución de pruebas](https://facebook.github.io/create-react-app/docs/running-tests) para más información.
+👉 [https://adrianmfm.github.io/pokemon/]
 
-#### `npm run build`
+## Sobre la Aplicación
 
-Construye la aplicación para producción en la carpeta `build`.\
-Agrupa correctamente React en modo producción y optimiza la construcción para el mejor rendimiento.
+Esta aplicación te permite buscar y visualizar información sobre Pokémon. Utiliza la API de Pokémon para obtener los detalles de cada Pokémon.
 
-La construcción está minificada y los nombres de archivo incluyen los hashes.\
-¡Tu aplicación está lista para ser desplegada!
+## Aprender Más
 
-Consulta la sección sobre [despliegue](https://facebook.github.io/create-react-app/docs/deployment) para más información.
-
-## Aprende Más
-
-Puedes aprender más en la [documentación de Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
+Puedes obtener más información en la [documentación de Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 Para aprender React, consulta la [documentación de React](https://reactjs.org/).
 
-## Contribuciones
+## Otros Recursos
 
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un *issue* o envía un *pull request*.
+- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [Configuraciones Avanzadas](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [Despliegue](https://facebook.github.io/create-react-app/docs/deployment)
 
-## Licencia
+## Solución de Problemas
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Si encuentras problemas durante el proceso de construcción, consulta la [guía de solución de problemas de Create React App](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
