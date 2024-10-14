@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adrianmfm.github.io/pokemon/static/css/main.857f6731.css",
+    "main.js": "/adrianmfm.github.io/pokemon/static/js/main.24a2801e.js",
+    "static/js/453.78b87f59.chunk.js": "/adrianmfm.github.io/pokemon/static/js/453.78b87f59.chunk.js",
+    "index.html": "/adrianmfm.github.io/pokemon/index.html",
+    "main.857f6731.css.map": "/adrianmfm.github.io/pokemon/static/css/main.857f6731.css.map",
+    "main.24a2801e.js.map": "/adrianmfm.github.io/pokemon/static/js/main.24a2801e.js.map",
+    "453.78b87f59.chunk.js.map": "/adrianmfm.github.io/pokemon/static/js/453.78b87f59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857f6731.css",
+    "static/js/main.24a2801e.js"
+  ]
+}
