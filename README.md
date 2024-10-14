@@ -18,7 +18,7 @@ También puedes ver cualquier error de lint en la consola.
 
 ## Ver la Aplicación en Línea
 
-👉 [https://adrianmfm.github.io/pokemon/]
+👉 https://adrianmfm.github.io/pokemon/
 
 ## Sobre la Aplicación
 
