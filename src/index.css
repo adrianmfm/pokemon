@@ -35,7 +35,7 @@ code {
 /* Agrega más tipos según sea necesario */
 
 .app-container {
-  background-color: rgb(36, 135, 188);
+  background-color: #80808057;
   background-repeat: no-repeat;
   background-size: cover; /* Asegúrate de que la imagen cubra todo el fondo */
   background-position: center 20%; /* Mueve la imagen hacia abajo */
